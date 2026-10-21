@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+.venv311/
+env/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+
+# PacketLens datasets and model artifacts
+.venv/
+__pycache__/
+*.pyc
+*.npz
+*.pt
+models/
+data/
+reports/
